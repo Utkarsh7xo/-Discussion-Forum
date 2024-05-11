@@ -1,0 +1,35 @@
+body{
+    background-color:darkslateblue;
+    font-family: 'Noto Sans',sans-serif;
+}
+.container{
+    padding-top: 60px;
+}
+.card-header{
+    outline: none;
+    border: none;
+}
+.card{
+    border-radius: 20px;
+    background-color:rgba(255, 255, 255, 0.7);
+}
+.card-body{
+    border-radius: 20px;
+    background-color:rgba(255, 255, 255, 0.4);
+}
+button.signup{
+    background-color: rgb(113, 141, 255);
+    color:black;
+    outline:none;
+    border:none;
+    padding: 15px;
+    margin-top: 30px;
+}   
+button.signup:hover{
+    background-color: rgb(77, 68, 255);
+    color:black;
+    outline:none;
+    border:none;
+    padding: 15px;
+    margin-top: 30px;
+} 

@@ -1,0 +1,48 @@
+body{
+    background-color: darkslateblue;
+    font-family: 'Noto Sans',sans-serif;
+}
+h2 {
+    padding-bottom: 50px;
+    padding-top: 20px;
+    color:aliceblue;
+}
+.home{
+    padding-top: 20px;
+}
+.home a{
+    background-color: #a1cca5;
+    color:black;
+    border-radius: 14px;
+    padding:15px;
+}
+.home a:hover{
+    background-color: #49854f;
+    color:black;
+}
+h4 {
+    color:aliceblue ;
+}
+.card{
+    background-color:rgba(255, 255, 255, 0.8);
+    border-radius: 20px;
+    padding: 20px;
+}
+textarea.form-control{
+    border-radius: 20px;
+    background-color:rgba(255, 255, 255, 0.8);
+    outline:none;
+}
+
+.comment{
+    padding: 0;
+}
+.container{
+    padding-bottom: 50px;
+}
+.submit{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #78a5ff;
+    color: black;
+}
